@@ -1,3 +1,6 @@
+# SolarArrayexample
+simple solar array power estimation example based on information below.  
+  
 # SolarPositionAlgorithm
 **NREL Solar Position Algorithm implemented in C#**. 
 

@@ -1,0 +1,8 @@
+
+[Bb]in/
+[Oo]bj/
+.vs/
+*.suo
+*.user
+*.log
+*.tlog
